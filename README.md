@@ -1,1 +1,1 @@
-# electron-video-player
+# electron-video-info
